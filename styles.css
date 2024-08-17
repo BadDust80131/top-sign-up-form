@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+}
+
+#sign-up {
+    display: flex;
+    height: 100vh;
+}
+
+#left {
+    flex: 1;
+    background-color: green;
+}
+#right {
+    flex: 2;
+    background-color: rebeccapurple;
+}
